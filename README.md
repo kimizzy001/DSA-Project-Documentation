@@ -37,7 +37,8 @@ The dashboard answers critical HR questions and supports data-driven decision-ma
      - Computed total pay = Salary + Bonus
      - Analyzed total compensation by region and company-wide
 
-## Dashboard Preview
+### 📸 Dashboard Preview
 
-![Palmora Group HR Dashboard](https://raw.githubusercontent.com/kimizzy001/DSA-Project-Documentation/main/palmora_dashboard.png)
+![Palmora Group HR Dashboard](https://raw.githubusercontent.com/kimizzy001/DSA-Project-Documentation/main/Palmora_dashboard.png)
+
 
