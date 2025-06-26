@@ -38,4 +38,6 @@ The dashboard answers critical HR questions and supports data-driven decision-ma
      - Analyzed total compensation by region and company-wide
 
 ## Dashboard Preview
-    
+
+![Palmora Group HR Dashboard](https://raw.githubusercontent.com/kimizzy001/DSA-Project-Documentation/main/palmora_dashboard.png)
+
