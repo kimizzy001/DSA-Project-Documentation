@@ -39,6 +39,7 @@ The dashboard answers critical HR questions and supports data-driven decision-ma
 
 ### 📸 Dashboard Preview
 
-![Palmora Group HR Dashboard](https://raw.githubusercontent.com/kimizzy001/DSA-Project-Documentation/main/Palmora_dashboard.png)
+![Palmora Group HR Dashboard](https://raw.githubusercontent.com/kimizzy001/DSA-Project-Documentation/main/Palmora_Dashboard.png)
+
 
 
