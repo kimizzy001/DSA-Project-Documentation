@@ -37,5 +37,5 @@ The dashboard answers critical HR questions and supports data-driven decision-ma
      - Computed total pay = Salary + Bonus
      - Analyzed total compensation by region and company-wide
 
-
+## Dashboard Preview
     
