@@ -1,8 +1,12 @@
 # DSA Data Analysis Capstone Project 
 A collection of data analysis projects using **Excel**, **Power BI**, and **MySQL**. Includes data cleaning, visualization, and insights generation to demonstrate analytical skills and business understanding.
 
+---
+
 ## Palmora Group HR Analysis
 This project presents a comprehensive HR analysis for the Palmora Group, using **Power BI** for interactive dashboards and data-driven insights. It highlights key HR metrics such as gender distribution, salary structure, regulatory compliance, and total compensation.
+
+---
 
 ## Tools & Technologies Used
    - **Power BI**
@@ -10,40 +14,49 @@ This project presents a comprehensive HR analysis for the Palmora Group, using *
    - **DAX** (Data Modeling & Calculations)
    - Data Visualization
     
+---
 
 ## Project Overview
 The dashboard answers **critical HR questions** and supports **data-driven decision-making**. Below are the key analyses performed: 
 
-### Key Insights & Case Questions Addressed:
-1.**Gender Distribution Analysis**
-      - Visualized organization-wide gender breakdown
-      - Filtered by Region and Department
+---
 
-2.**Employee Rating by Gender**
-     - Compared performance ratings across male, female, and unspecified genders
+### Key Insights & Case Questions Addressed:
+1. **Gender Distribution Analysis**
+   - Visualized organization-wide gender breakdown
+   - Filtered by Region and Department
+
+2. **Employee Rating by Gender**
+   - Compared performance ratings across male, female, and unspecified genders
       
-3.**Company Salary Structure**
-     - Analyzed salary distribution across genders
-     - Identified presence of gender pay gaps
-     - Highlighted specific regions and departments needing attention
+3. **Company Salary Structure**
+   - Analyzed salary distribution across genders
+   - Identified presence of gender pay gaps
+   - Highlighted specific regions and departments needing attention
        
-4.**Regulatory Salary Compliance Check**
-     - Verified adherence to the $90,000 minimum wage requirement
-     - Identified 654 employees earning below this threshold
-     - Displayed pay distribution in $10,000 bands by region
+4. **Regulatory Salary Compliance Check**
+   - Verified adherence to the $90,000 minimum wage requirement
+   - Identified 654 employees earning below this threshold
+   - Displayed pay distribution in $10,000 bands by region
 
  
-5.**Bonus & Total Compensation Calculation**
-     - Calculated individual bonuses
-     - Computed total pay = Salary + Bonus
-     - Analyzed total compensation by region and company-wide
+5. **Bonus & Total Compensation Calculation**
+   - Calculated individual bonuses
+   - Computed total pay = Salary + Bonus
+   - Analyzed total compensation by region and company-wide
+
+---
 
 ### 📸 Dashboard Preview
 
 ![Image](https://github.com/kimizzy001/DSA-Project-Documentation/blob/main/palmora%20e.jpg)
 
+---
+
 ### Project Overview
 This HR analytics project for Palmora Group focuses on evaluating key workforce metrics, including gender distribution, salary structure, regional pay differences, performance ratings, and compliance with the new $90,000 minimum wage regulation. It also includes the allocation of bonuses based on employee performance.
+
+---
 
 #### Key Insights
 1. **Gender Distribution by Region & Department**
@@ -79,17 +92,23 @@ This HR analytics project for Palmora Group focuses on evaluating key workforce 
        - Kaduna received the highest share of total bonus payout.
        - Bonus distribution aligns with performance rating scores.
 
+---
+
 ### Recommendations
    - Address salary non-compliance immediately, especially in Kaduna.
    - Investigate and resolve gender-based pay gaps, focusing on specific departments and regions.
    - Improve data completeness by minimizing “Unspecified” gender entries.
    - Continue using performance-based bonus structures, but ensure fairness and transparency.
 
+---
+
 ### Tools Used
    - Power BI Desktop
    - DAX for calculated measures (e.g., average salary, bonus logic)
    - Tooltip customization
    - Slicers and filters for user interactivity
+
+---
 
 ### Final Notes
 
