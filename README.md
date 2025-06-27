@@ -40,7 +40,7 @@ The dashboard answers critical HR questions and supports data-driven decision-ma
 
 ### 📸 Dashboard Preview
 
-![Image](https://github.com/user-attachments/assets/430a4a39-4226-487a-8c80-33eb685a3991)
+![Image](https://drive.google.com/file/d/1ng94LdSsIRn6FKnhc5AL6Y2T8Wd2GXJe/view?usp=sharing)
 
 
 
