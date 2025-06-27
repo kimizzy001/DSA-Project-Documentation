@@ -38,8 +38,7 @@ The dashboard answers critical HR questions and supports data-driven decision-ma
      - Analyzed total compensation by region and company-wide
 
 ### 📸 Dashboard Preview
-
-![Palmora](../images/palmora.png)
+![Palmora](palmora.png)
 
 
 
