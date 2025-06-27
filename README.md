@@ -9,6 +9,7 @@ This project presents a comprehensive HR analysis for the Palmora Group, using P
    - Power Query (Data Cleaning & Transformation)
    -  DAX (Data Modeling & Calculations)
    - Data Visualization
+     ![Logo](./palmora.png)
 
 ## Project Overview
 The dashboard answers critical HR questions and supports data-driven decision-making. Below are the key analyses performed: 
@@ -39,7 +40,7 @@ The dashboard answers critical HR questions and supports data-driven decision-ma
 
 ### 📸 Dashboard Preview
 
-![Logo](./palmora.png)
+
 
 
 
