@@ -42,6 +42,8 @@ The dashboard answers critical HR questions and supports data-driven decision-ma
 
 ![Image](https://github.com/kimizzy001/DSA-Project-Documentation/blob/main/palmora.png)
 
+![Image](https://github.com/user-attachments/assets/9303df68-735c-4dbd-b862-512e7addc895)
+
 ### Project Overview
 This HR analytics project for Palmora Group focuses on evaluating key workforce metrics, including gender distribution, salary structure, regional pay differences, performance ratings, and compliance with the new $90,000 minimum wage regulation. It also includes the allocation of bonuses based on employee performance.
 
