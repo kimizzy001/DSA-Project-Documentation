@@ -40,7 +40,6 @@ The dashboard answers critical HR questions and supports data-driven decision-ma
 
 ### 📸 Dashboard Preview
 
-![Image](https://drive.google.com/file/d/1ng94LdSsIRn6FKnhc5AL6Y2T8Wd2GXJe/view?usp=sharing)
-
+![Image](https://github.com/kimizzy001/DSA-Project-Documentation/blob/main/palmora.png)
 
 
