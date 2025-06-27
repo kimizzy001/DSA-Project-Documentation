@@ -112,6 +112,9 @@ This HR analytics project for Palmora Group focuses on evaluating key workforce 
 
 ### Final Notes
 
-This project fulfills capstone requirements for DSA. It showcases the use of **data storytelling** and **business insight generation** using real-world HR data.
+This project fulfills the capstone requirement for the Data Science Accelerator (DSA) program.  
+It demonstrates not only technical proficiency in Power BI and DAX, but also the ability to extract meaningful business insights and communicate them through clear, interactive visuals.  
+The focus on gender distribution, compensation equity, and regulatory compliance highlights a real-world application of data-driven HR strategy.
+
 
 
