@@ -47,37 +47,37 @@ This HR analytics project for Palmora Group focuses on evaluating key workforce 
 
 #### Key Insights
    1. Gender Distribution by Region & Department
-    - Overall gender split:
-       - Female: 49.15%
-       - Male: 44.12%
-       - Unspecified: 6.73%
-    - Gender representation is fairly balanced.
-    - Gender distribution was further broken down across regions (Lagos, Abuja, Kaduna) and departments, enabling HR to monitor diversity more accurately.
+      - Overall gender split:
+         - Female: 49.15%
+         - Male: 44.12%
+         - Unspecified: 6.73%
+      - Gender representation is fairly balanced.
+      - Gender distribution was further broken down across regions (Lagos, Abuja, Kaduna) and departments, enabling HR to monitor diversity more accurately.
 
-   2. Performance Ratings by Gender
-     - Ratings were originally in text format (e.g., Very Good, Average, etc.) and were converted to numeric scores.
-     - Analysis showed that Male and Female employees have similar average performance ratings, with no significant disparity.
-     - Most employees fall into the “Good” or “Very Good” categories.
+   2. Performance Ratings by Gender    
+       - Ratings were originally in text format (e.g., Very Good, Average, etc.) and were converted to numeric scores.
+       - Analysis showed that Male and Female employees have similar average performance ratings, with no significant disparity.
+       - Most employees fall into the “Good” or “Very Good” categories.
 
    3. Company Salary Structure & Gender Pay Gap
-     - A gender pay gap was identified:
-     - Male employees tend to receive higher average salaries across most regions and departments.
-     - Breakdown by department and location revealed that some departments (e.g., Legal, Marketing) and regions (e.g., Abuja) exhibit wider gender-based salary differences.
-     - These areas should be prioritized by management for a pay equity audit.
+       - A gender pay gap was identified:
+       - Male employees tend to receive higher average salaries across most regions and departments.
+       - Breakdown by department and location revealed that some departments (e.g., Legal, Marketing) and regions (e.g., Abuja) exhibit wider gender-based salary differences.
+       - These areas should be prioritized by management for a pay equity audit.
 
-4. Minimum Salary Compliance
-     - The new regulation mandates a minimum annual salary of $90,000 for all employees.
-     - The analysis found 654 employees earn below this threshold, indicating non-compliance.
-     - Employees were grouped into salary bands (e.g., $90K–$100K, $100K–$110K, etc.) and analyzed by region.
-     - Kaduna has the highest share of underpaid employees and total salary spend, making it the key region for compliance intervention.
+   5. Minimum Salary Compliance
+       - The new regulation mandates a minimum annual salary of $90,000 for all employees.
+       - The analysis found 654 employees earn below this threshold, indicating non-compliance.
+       - Employees were grouped into salary bands (e.g., $90K–$100K, $100K–$110K, etc.) and analyzed by region.
+       - Kaduna has the highest share of underpaid employees and total salary spend, making it the key region for compliance intervention.
 
-5. Bonus Allocation Based on Ratings
-     - Bonus amounts were calculated using a separate dataset containing rules based on performance ratings.
-     - A total of $2.20M was allocated as bonuses company-wide.
-     - Each employee’s total compensation (salary + bonus) was calculated.
-     - Summary of bonus allocation:
-     - Kaduna received the highest share of total bonus payout.
-     - Bonus distribution aligns with performance rating scores.
+   6. Bonus Allocation Based on Ratings
+       - Bonus amounts were calculated using a separate dataset containing rules based on performance ratings.
+       - A total of $2.20M was allocated as bonuses company-wide.
+       - Each employee’s total compensation (salary + bonus) was calculated.
+       - Summary of bonus allocation:
+       - Kaduna received the highest share of total bonus payout.
+       - Bonus distribution aligns with performance rating scores.
 
 ### Recommendations
    - Address salary non-compliance immediately, especially in Kaduna.
