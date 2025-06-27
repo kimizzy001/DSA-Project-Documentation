@@ -39,7 +39,7 @@ The dashboard answers critical HR questions and supports data-driven decision-ma
 
 ### 📸 Dashboard Preview
 
-![Palmora Dashboard](Palmoradashboard.png)
+![Palmora](images/palmora.png)
 
 
 
