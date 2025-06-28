@@ -1,5 +1,5 @@
-# DSA Data Analysis Capstone Project 
-A collection of data analysis projects using **Excel**, **Power BI**, and **MySQL**. Includes data cleaning, visualization, and insights generation to demonstrate analytical skills and business understanding.
+# Palmora Group HR Analysis (Power BI Capstone)
+This project delivers a comprehensive HR analytics dashboard for Palmora Group, built using Power BI. The analysis explores gender distribution, salary structure, performance ratings, and regulatory compliance. It also includes bonus allocation based on employee performance and salary band distribution by region. The dashboard supports data-driven decisions in HR management, with interactive filters and visuals for deeper insight.
 
 ---
 
