@@ -16,7 +16,10 @@ This project presents a comprehensive HR analysis for the Palmora Group, using *
     
 ---
 
-## Project Overview
+### Dashboard Preview
+
+![Image](https://github.com/kimizzy001/DSA-Project-Documentation/blob/main/palmora%20e.jpg)
+
 The dashboard answers **critical HR questions** and supports **data-driven decision-making**. Below are the key analyses performed: 
 
 ---
@@ -44,12 +47,6 @@ The dashboard answers **critical HR questions** and supports **data-driven decis
    - Calculated individual bonuses
    - Computed total pay = Salary + Bonus
    - Analyzed total compensation by region and company-wide
-
----
-
-### 📸 Dashboard Preview
-
-![Image](https://github.com/kimizzy001/DSA-Project-Documentation/blob/main/palmora%20e.jpg)
 
 ---
 
