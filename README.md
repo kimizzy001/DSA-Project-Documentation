@@ -5,14 +5,6 @@ This project delivers a comprehensive HR analytics dashboard for Palmora Group, 
 
 ## Palmora Group HR Analysis
 This project presents a comprehensive HR analysis for the Palmora Group, using **Power BI** for interactive dashboards and data-driven insights. It highlights key HR metrics such as gender distribution, salary structure, regulatory compliance, and total compensation.
-
----
-
-## Tools & Technologies Used
-   - **Power BI**
-   - **Power Query** (Data Cleaning & Transformation)
-   - **DAX** (Data Modeling & Calculations)
-   - Data Visualization
     
 ---
 
